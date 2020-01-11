@@ -1,0 +1,63 @@
+CreateTransactionRequest {#876
+  -transactionRequest: TransactionRequestType {#877
+    -transactionType: "authCaptureTransaction"
+    -amount: "1.00"
+    -currencyCode: null
+    -payment: PaymentType {#870
+      -creditCard: CreditCardType {#892
+        -cardCode: null
+        -isPaymentToken: null
+        -cryptogram: null
+        -cardNumber: "4266841601703125"
+        -expirationDate: "2023-08"
+      }
+      -bankAccount: null
+      -trackData: null
+      -encryptedTrackData: null
+      -payPal: null
+      -opaqueData: null
+      -emv: null
+      -dataSource: null
+    }
+    -profile: null
+    -solution: null
+    -callId: null
+    -terminalNumber: null
+    -authCode: null
+    -refTransId: null
+    -splitTenderId: null
+    -order: null
+    -lineItems: null
+    -tax: null
+    -duty: null
+    -shipping: null
+    -taxExempt: null
+    -poNumber: null
+    -customer: null
+    -billTo: null
+    -shipTo: null
+    -customerIP: null
+    -cardholderAuthentication: null
+    -retail: null
+    -employeeId: null
+    -transactionSettings: null
+    -userFields: null
+    -surcharge: null
+    -merchantDescriptor: null
+    -subMerchant: null
+    -tip: null
+  }
+  -merchantAuthentication: MerchantAuthenticationType {#874
+    -name: "6Fy9XkeCA779"
+    -transactionKey: "5aMh8Rx7nH84R46e"
+    -sessionToken: null
+    -password: null
+    -impersonationAuthentication: null
+    -fingerPrint: null
+    -clientKey: null
+    -accessToken: null
+    -mobileDeviceId: null
+  }
+  -clientId: null
+  -refId: 1553520860
+}

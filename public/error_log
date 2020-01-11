@@ -1,0 +1,7 @@
+[23-Jan-2019 18:36:39 UTC] PHP Fatal error:  Call to a member function decrement() on null in /home/nucleuspos/v4.nucleuspos.com/app/Http/Controllers/ProductStockinController.php on line 653
+[23-Jan-2019 18:36:43 UTC] PHP Fatal error:  Call to a member function decrement() on null in /home/nucleuspos/v4.nucleuspos.com/app/Http/Controllers/ProductStockinController.php on line 653
+[23-Jan-2019 20:28:20 UTC] PHP Fatal error:  Call to a member function decrement() on null in /home/nucleuspos/v4.nucleuspos.com/app/Http/Controllers/ProductStockinController.php on line 653
+[23-Jan-2019 20:31:50 UTC] PHP Fatal error:  Call to a member function decrement() on null in /home/nucleuspos/v4.nucleuspos.com/app/Http/Controllers/ProductStockinController.php on line 653
+[25-Jan-2019 17:08:04 UTC] PHP Fatal error:  Class 'App\Http\Controllers\DB' not found in /home/nucleuspos/v4.nucleuspos.com/app/Http/Controllers/CashierPunchController.php on line 117
+[25-Jan-2019 17:08:08 UTC] PHP Fatal error:  Class 'App\Http\Controllers\DB' not found in /home/nucleuspos/v4.nucleuspos.com/app/Http/Controllers/CashierPunchController.php on line 117
+[14-Feb-2019 22:31:15 UTC] PHP Fatal error:  Class 'App\Http\Controllers\AuthorizeNetPaymentController' not found in /home/nucleuspos/v4.nucleuspos.com/app/Http/Controllers/InvoiceController.php on line 74

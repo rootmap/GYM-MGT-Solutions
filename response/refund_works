@@ -1,0 +1,67 @@
+net\authorize\api\contract\v1\CreateTransactionResponse Object
+(
+    [transactionResponse:net\authorize\api\contract\v1\CreateTransactionResponse:private] => net\authorize\api\contract\v1\TransactionResponseType Object
+        (
+            [responseCode:net\authorize\api\contract\v1\TransactionResponseType:private] => 1
+            [rawResponseCode:net\authorize\api\contract\v1\TransactionResponseType:private] => 
+            [authCode:net\authorize\api\contract\v1\TransactionResponseType:private] => 
+            [avsResultCode:net\authorize\api\contract\v1\TransactionResponseType:private] => P
+            [cvvResultCode:net\authorize\api\contract\v1\TransactionResponseType:private] => 
+            [cavvResultCode:net\authorize\api\contract\v1\TransactionResponseType:private] => 
+            [transId:net\authorize\api\contract\v1\TransactionResponseType:private] => 61639324439
+            [refTransID:net\authorize\api\contract\v1\TransactionResponseType:private] => 61636862839
+            [transHash:net\authorize\api\contract\v1\TransactionResponseType:private] => 83361B34DEB83932496380B2662CF678
+            [testRequest:net\authorize\api\contract\v1\TransactionResponseType:private] => 0
+            [accountNumber:net\authorize\api\contract\v1\TransactionResponseType:private] => XXXX3125
+            [entryMode:net\authorize\api\contract\v1\TransactionResponseType:private] => 
+            [accountType:net\authorize\api\contract\v1\TransactionResponseType:private] => Visa
+            [splitTenderId:net\authorize\api\contract\v1\TransactionResponseType:private] => 
+            [prePaidCard:net\authorize\api\contract\v1\TransactionResponseType:private] => 
+            [messages:net\authorize\api\contract\v1\TransactionResponseType:private] => Array
+                (
+                    [0] => net\authorize\api\contract\v1\TransactionResponseType\MessagesAType\MessageAType Object
+                        (
+                            [code:net\authorize\api\contract\v1\TransactionResponseType\MessagesAType\MessageAType:private] => 1
+                            [description:net\authorize\api\contract\v1\TransactionResponseType\MessagesAType\MessageAType:private] => This transaction has been approved.
+                        )
+
+                )
+
+            [errors:net\authorize\api\contract\v1\TransactionResponseType:private] => Array
+                (
+                )
+
+            [splitTenderPayments:net\authorize\api\contract\v1\TransactionResponseType:private] => Array
+                (
+                )
+
+            [userFields:net\authorize\api\contract\v1\TransactionResponseType:private] => Array
+                (
+                )
+
+            [shipTo:net\authorize\api\contract\v1\TransactionResponseType:private] => 
+            [secureAcceptance:net\authorize\api\contract\v1\TransactionResponseType:private] => 
+            [emvResponse:net\authorize\api\contract\v1\TransactionResponseType:private] => 
+            [transHashSha2:net\authorize\api\contract\v1\TransactionResponseType:private] => 
+            [profile:net\authorize\api\contract\v1\TransactionResponseType:private] => 
+        )
+
+    [profileResponse:net\authorize\api\contract\v1\CreateTransactionResponse:private] => 
+    [refId:net\authorize\api\contract\v1\ANetApiResponseType:private] => ref1553629580
+    [messages:net\authorize\api\contract\v1\ANetApiResponseType:private] => net\authorize\api\contract\v1\MessagesType Object
+        (
+            [resultCode:net\authorize\api\contract\v1\MessagesType:private] => Ok
+            [message:net\authorize\api\contract\v1\MessagesType:private] => Array
+                (
+                    [0] => net\authorize\api\contract\v1\MessagesType\MessageAType Object
+                        (
+                            [code:net\authorize\api\contract\v1\MessagesType\MessageAType:private] => I00001
+                            [text:net\authorize\api\contract\v1\MessagesType\MessageAType:private] => Successful.
+                        )
+
+                )
+
+        )
+
+    [sessionToken:net\authorize\api\contract\v1\ANetApiResponseType:private] => 
+)
